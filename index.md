@@ -6,3 +6,5 @@
 ``` javascript
 var myName = "hussain";
 ```
+- [ ] design hw
+- [ ] discord setting
